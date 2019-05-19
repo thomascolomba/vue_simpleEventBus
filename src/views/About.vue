@@ -1,5 +1,11 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>The events are shown on the About screen</p>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'home'
+}
+</script>
